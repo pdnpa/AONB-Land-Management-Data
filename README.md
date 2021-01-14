@@ -1,7 +1,9 @@
 # AONB-Land-Management-Data
-A repo to include data for Land Management Schemes in AONBs cut by PDNPA
+A repo to include data for Land Management Schemes in AONBs cut by PDNPA.
 
-This is a reproducible data dictionary based on a python script to scrape Natural England open data in order to perform analysis for AONB areas. As this is a script, it can be re-run as and when the data is updated through ESRI ARCGIS. Moreover, this analysis is reproducible meaning this analysis can be copied or investigated and improved on. For further details contact;
+This is a reproducible data dictionary based on a python script to scrape Natural England open data in order to perform analysis for AONB areas. As this is a script, it can be re-run as and when the data is updated through ESRI ARCGIS. Moreover, this analysis is reproducible meaning this analysis can be copied or investigated and improved on.
+
+If you notice an error :) or want further details contact;
 
 [david.alexander@peakdistrict.gov.uk](mailto:david.alexander@peakdistrict.gov.uk)
 
