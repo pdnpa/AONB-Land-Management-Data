@@ -13,5 +13,6 @@ For more **information** please see the [methodology notebook](https://github.co
 
 To **download** the data please see the  **click** the **code** button then **download ZIP**. Then extract the folders to find the .shp shapefiles located in the **Data** folder for GIS (ES & CS cut to AONBs in England).
 
+## Screenshot
 
 ![How to download](https://github.com/DGalexander/ARC_notebooks/blob/main/Instructions.png)
