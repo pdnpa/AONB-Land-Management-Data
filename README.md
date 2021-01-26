@@ -11,7 +11,8 @@ The area managed under agri-environment agreements: ie the total area under Envi
 
 For more **information** please see the [methodology notebook](https://github.com/pdnpa/AONB-Land-Management-Data/blob/main/AONB-Notebook.ipynb) the pivot tables at the bottom of the methodology show the simple analysis in square kilometres per each AONB.
 
-To **download** the data please see the  **click** the **code** button the **download ZIP** to download and extract the folders to find the .shp shapefiles of ES & CS cut to AONBS. The analysis tables have been added as .csv. Please use the ['AREA_CLIP'] column as the area of the clipped polygons.
+To **download** the data please see the  **click** the **code** button then **download ZIP**. Then extract the folders to find the .shp shapefiles located in the **Data** folder for GIS (ES & CS cut to AONBs in England).
 
+## Screenshot
 
 ![How to download](https://github.com/DGalexander/ARC_notebooks/blob/main/Instructions.png)
